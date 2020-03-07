@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  
+}
+h1{
+  color:black;
+}
+.compte p{
+  color: aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+button{
+  background-color: crimson;
+  color: aliceblue;
+}
